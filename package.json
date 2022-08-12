@@ -1,0 +1,41 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "3.2.0",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "base-64": "^1.0.0",
+    "expo": "~41.0.1",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.5.4",
+    "firebase": "^8.2.3",
+    "native-base": "^3.2.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-easy-grid": "^0.2.2",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.4",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-native-modal-datetime-picker": "^13.0.1",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "^3.3.0",
+    "react-native-svg": "12.1.0",
+    "react-native-table-component": "^1.2.1",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.13.12",
+    "styled-components": "^5.3.3",
+    "styled-system": "^5.1.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
